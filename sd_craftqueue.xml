@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<uiframe name="sd_craftqueue" x="0" y="0" width="10" height="10">
+<uiframe name="sd_craftqueue" x="0" y="0" width="10" height="10" create="open">
   <frame layout_gravity="right top" />
   <option closebutton="false" hideable="false" />
   <input hittestframe="false"/>
